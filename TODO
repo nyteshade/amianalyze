@@ -1,0 +1,6 @@
+Add file name extension to FileMetadata
+Implement filetype analyzers
+Think of more
+
+Distribute fileutils.(c|h) completely
+Determine missing features like rebuilding a file from a FileMetadata and so on
